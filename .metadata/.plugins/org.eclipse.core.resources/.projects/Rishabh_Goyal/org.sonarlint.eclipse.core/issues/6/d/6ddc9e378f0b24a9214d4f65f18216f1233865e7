@@ -1,0 +1,16 @@
+
+Š
+java:S3252,"WUse static access with "com.cg.pizzaorder.service.IPizzaOrderService" for "menuChoice".(¿ÚöÎüÿÿÿÿH/RCRITICALZ
+CODE_SMELL
+ˆ
+java:S32526"ZUse static access with "com.cg.pizzaorder.service.IPizzaOrderService" for "toppingChoice".(Ô‘…÷H0RCRITICALZ
+CODE_SMELL
+ˆ
+java:S3252>"UUse static access with "com.cg.pizzaorder.service.IPizzaOrderService" for "userName".(ãø¾ªıÿÿÿÿH1RCRITICALZ
+CODE_SMELL
+‡
+java:S3252G"TUse static access with "com.cg.pizzaorder.service.IPizzaOrderService" for "address".(¹…íÌıÿÿÿÿH2RCRITICALZ
+CODE_SMELL
+‘
+java:S3252O"^Use static access with "com.cg.pizzaorder.service.IPizzaOrderService" for "usermobilePattern".(ÌàıÿÿÿÿH3RCRITICALZ
+CODE_SMELL

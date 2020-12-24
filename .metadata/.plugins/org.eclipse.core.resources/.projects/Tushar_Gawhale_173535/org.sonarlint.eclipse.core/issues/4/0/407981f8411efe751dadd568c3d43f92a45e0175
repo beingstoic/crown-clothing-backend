@@ -1,0 +1,15 @@
+
+x	java:S128s"LEnd this switch case with an unconditional break, return or throw statement.(¡È›HRBLOCKERZ
+CODE_SMELL
+x	java:S128p"LEnd this switch case with an unconditional break, return or throw statement.(ç¿ÔHRBLOCKERZ
+CODE_SMELL
+G
+java:S1116X"Remove this empty statement.(‰·˜¬HRMINORZ
+CODE_SMELL
+}	java:S128m"LEnd this switch case with an unconditional break, return or throw statement.(ÙÆäÊÿÿÿÿÿHRBLOCKERZ
+CODE_SMELL
+}
+java:S1858$"M"menuChoice" is already a string, there's no need to call "toString()" on it.(ã®¸ıÿÿÿÿHRMINORZ
+CODE_SMELL
+}	java:S128v"LEnd this switch case with an unconditional break, return or throw statement.(ìÔİçúÿÿÿÿHRBLOCKERZ
+CODE_SMELL

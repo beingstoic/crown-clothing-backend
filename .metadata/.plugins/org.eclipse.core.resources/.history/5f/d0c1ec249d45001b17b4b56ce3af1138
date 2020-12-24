@@ -1,0 +1,5 @@
+package com.ecom.ninja.auth.config;
+
+public class AuthorizationServerConfiguration {
+
+}

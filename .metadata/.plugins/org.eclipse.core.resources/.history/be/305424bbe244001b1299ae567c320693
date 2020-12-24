@@ -1,0 +1,23 @@
+package com.ecom.ninja.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="ItemEntity component")
+public class ItemEntity {
+
+		@Id 
+		String id;
+		
+		@Column(name="name", nullable=false)
+		String name;
+		
+		@Column(name="imageUrl", nullable=false)
+		String imageUrl;
+		
+		@Column(name="price", nullable=false)
+		int price;
+}

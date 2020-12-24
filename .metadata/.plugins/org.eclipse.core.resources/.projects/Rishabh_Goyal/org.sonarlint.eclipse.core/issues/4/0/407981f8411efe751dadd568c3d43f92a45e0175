@@ -1,0 +1,15 @@
+
+G
+java:S1116X"Remove this empty statement.(‰·˜¬H"RMINORZ
+CODE_SMELL
+}
+java:S1858$"M"menuChoice" is already a string, there's no need to call "toString()" on it.(ãŽ®¸ýÿÿÿÿH!RMINORZ
+CODE_SMELL
+m
+java:S2184o"BCast one of the operands of this addition operation to a "double".(ž´Œù8ì¡’Éè.H+RMINORZBUG
+r
+java:S2184s"BCast one of the operands of this addition operation to a "double".(¿¨ˆ‘ùÿÿÿÿ8ì¡’Éè.H,RMINORZBUG
+r
+java:S2184w"BCast one of the operands of this addition operation to a "double".(¡›âÔûÿÿÿÿ8ì¡’Éè.H-RMINORZBUG
+l
+java:S2184{"BCast one of the operands of this addition operation to a "double".(åÁ´78ì¡’Éè.H.RMINORZBUG
